@@ -1,0 +1,69 @@
+@media (max-width: 1160px) {
+    .about-img{
+        margin-bottom: 20px !important;
+    }
+    
+}
+
+@media (max-width: 1080px) {
+    .about-img{
+        width: 440px !important;
+        margin-bottom: 40px !important;
+        object-fit: cover;
+    }
+    
+}
+
+@media (max-width: 992px) {
+    .about-section{
+        width: 80vw !important;
+    }
+}
+
+@media (max-width: 800px) {
+    .about-img{
+        width: 500px !important;
+    }
+}
+
+@media (max-width: 450px) {
+    .service-heading, .trainer-heading, .plan-heading{
+        width: 250px !important;
+    }
+    .single-box{
+        width: 305px !important;
+         
+    }
+    
+    .double-box{
+        width: 150px !important;
+       
+    }
+    .address-box{
+        width: 305px !important;
+       
+    }
+}
+
+@media (max-width: 390px) {
+    .service-heading, .trainer-heading, .plan-heading{
+        width: 200px !important;
+    }
+    .header-content{
+        margin-top: -12px !important;
+    }
+    .header-content-para{
+        font-size: 13px !important;
+    }
+    .footer{
+        margin-top: 100px !important;
+    }
+}
+
+ 
+@media (max-width:410px) {
+    .footer{
+        margin-top: 130px !important;
+    }
+    
+}
